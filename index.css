@@ -1,0 +1,260 @@
+.first {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin-left: 60px;
+    padding: 20px;
+    border-bottom: 0.001px solid rgba(186, 173, 173, 0.86);
+}
+
+
+
+.first h2 {
+    margin-top: 5px;
+    margin-left: 30px;
+    color: blue;
+}
+
+.first span {
+    margin-top: 5px;
+    gap: 100px;
+
+}
+
+.btn {
+    background-color: rgb(29, 92, 195);
+    color: white;
+    padding: 10px;
+    margin-right: -300px;
+    margin-left: -600px;
+}
+
+.bt {
+    background-color: rgb(36, 36, 198);
+    color: white;
+    padding: 3px;
+    margin-top: 1px;
+    width: 80px;
+    height: 40px;
+    margin-left: 50px;
+}
+
+.box {
+    height: 320px;
+    width: 550px;
+    border: 1px solid blue;
+    margin-left: 700px;
+    margin-top: -290px;
+    border-radius: 10px;
+    background-color: rgb(167, 149, 184);
+}
+
+.para {
+    margin-top: 150px;
+}
+
+.para h1 {
+    margin-left: 150px;
+    margin-bottom: 10px;
+    font-size: 40px;
+}
+
+.para2 {
+    max-width: 450px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.btn {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.head {
+    margin-top: 10px;
+}
+
+.container {
+    background-color: rgb(204, 204, 204);
+    height: 650px;
+}
+
+.mid {
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.small-images {
+    max-width: 350px;
+    text-align: center;
+}
+
+.store {
+    display: flex;
+    gap: 80px;
+    /* text-align: center; */
+    margin-left: 120px;
+}
+
+.chart-page {
+    max-width: 350px;
+    text-align: center;
+    margin-top: 240px;
+    margin-left: 80px;
+}
+
+
+.extend {
+    max-width: -100px;
+    margin-left: 10px;
+}
+
+.chart-page p {
+    width: 600px;
+}
+
+.learn-btn {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin-top: 25px;
+    width: 90px;
+    height: 40px;
+    margin-left: -100px;
+}
+
+.chart {
+    height: 300px;
+    width: 550px;
+    border: 1px solid blue;
+    margin-left: 700px;
+    margin-top: -200px;
+    border-radius: 10px;
+    background-color: rgb(167, 149, 184);
+
+}
+
+.box-last {
+    height: 380px;
+    width: 550px;
+    border: 1px solid blue;
+    margin-left: 80px;
+    margin-top: -230px;
+    border-radius: 10px;
+    background-color: rgb(167, 149, 184);
+}
+
+.last {
+    margin-top: 400px;
+    display: flex;
+}
+
+.small-images-last {
+    max-width: 350px;
+    text-align: center;
+    display: flex;
+    margin-left: 20px;
+    margin-top: -200px;
+    gap: 10px;
+    margin-right: 20px;
+}
+
+.small-images-last-last {
+    max-width: 350px;
+    text-align: center;
+    display: flex;
+    margin-left: 650px;
+    margin-top: -560px;
+    gap: 10px;
+    margin-right: -610px;
+}
+
+.img-last {
+    margin-right: -60px;
+    margin-top: -10px;
+}
+
+.small-images-last-final {
+    max-width: 350px;
+    text-align: center;
+    display: flex;
+    margin-left: 200px;
+    margin-top: -200px;
+    gap: 12px;
+}
+
+.footer {
+    background-color: rgb(208, 205, 205);
+    text-align: center;
+    margin-top: -400px;
+    height: 380px;
+}
+
+.footer h1 {
+    margin-top: 80px;
+    padding: 30px;
+}
+
+.last-btn {
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin-top: 3px;
+    width: 140px;
+    height: 45px;
+}
+
+.rights {
+    background-color: rgb(47, 45, 45);
+    height: 50px;
+    text-align: center;
+    /* display: flex; */
+    align-items: center;
+    color: white;
+    margin-top: -20px;
+}
+
+
+/* indexx.html's css */
+
+.paragraph {
+    text-align: center;
+    justify-content: center;
+    margin-left: -100px;
+}
+
+.middle {
+    gap: 600px;
+    justify-content: space-between;
+    margin-right: 90px;
+}
+
+.paragraph2 {
+    text-align: center;
+    justify-content: center;
+    margin-left: 600px;
+}
+
+.btn-learn {
+    color: blue;
+    border: 1px solid blue;
+    background-color: rgb(211, 218, 225);
+    margin-left: 100px;
+}
+
+.small-images h4 {
+    color: blue;
+}
+
+.over {
+    height: 300px;
+}
+
+.simple {
+    margin-left: -500px;
+}
+
+.btnbtn {
+    margin-left: -150px;
+}
