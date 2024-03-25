@@ -7,8 +7,6 @@
     border-bottom: 0.001px solid rgba(186, 173, 173, 0.86);
 }
 
-
-
 .first h2 {
     margin-top: 5px;
     margin-left: 30px;
@@ -18,7 +16,6 @@
 .first span {
     margin-top: 5px;
     gap: 100px;
-
 }
 
 .btn {
