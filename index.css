@@ -9,21 +9,23 @@
 
 .first h2 {
     margin-top: 5px;
-    margin-left: 30px;
+    margin-left: 70px;
+    margin-right: 10px;
     color: blue;
 }
 
 .first span {
     margin-top: 5px;
-    gap: 100px;
+    margin-left: -50px;
+    margin-right: -300px;
 }
 
 .btn {
     background-color: rgb(29, 92, 195);
     color: white;
     padding: 10px;
-    margin-right: -300px;
-    margin-left: -600px;
+    margin-left: 145px;
+    margin-top: 40px;
 }
 
 .bt {
@@ -33,7 +35,8 @@
     margin-top: 1px;
     width: 80px;
     height: 40px;
-    margin-left: 50px;
+    margin-left: 100px;
+    margin-right: 180px;
 }
 
 .box {
@@ -62,11 +65,6 @@
     margin-top: 20px;
 }
 
-.btn {
-    margin-left: 100px;
-    margin-top: 50px;
-}
-
 .head {
     margin-top: 10px;
 }
@@ -90,7 +88,6 @@
 .store {
     display: flex;
     gap: 80px;
-    /* text-align: center; */
     margin-left: 120px;
 }
 
@@ -237,7 +234,9 @@
     color: blue;
     border: 1px solid blue;
     background-color: rgb(211, 218, 225);
-    margin-left: 100px;
+    margin-left: 20px;
+    padding: 15px;
+    width: 150px;
 }
 
 .small-images h4 {
@@ -252,6 +251,11 @@
     margin-left: -500px;
 }
 
-.btnbtn {
-    margin-left: -150px;
+.buttons {
+    margin-left: 200px;
+    padding: 15px;
+    margin-top: 30px;
+    background-color: blue;
+    color: white;
+    width: 150px;
 }
